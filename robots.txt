@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uqotaaro.github.io/SpQ/sitemap_index.txt
+Sitemap: https://uqotaaro.github.io/hGl/sitemap_index.txt
+Sitemap: https://uqotaaro.github.io/kIG/sitemap_index.txt
+Sitemap: https://uqotaaro.github.io/pXn/sitemap_index.txt
